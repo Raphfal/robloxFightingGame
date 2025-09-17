@@ -1,0 +1,35 @@
+[33mcommit 96cc0b282fc597015fb91f440250ac1fbc9f8326[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdummy[m[33m, [m[1;31morigin/dummy[m[33m)[m
+Author: Raphfal <heuzraph@gmail.com>
+Date:   Wed Sep 17 19:29:21 2025 +0200
+
+    Delete caracters/ghost/Ghost Rig directory
+
+[33mcommit 06aebf11263aa57bfc62e308aaa30e70581dd4c5[m
+Author: Raphfal <heuzraph@gmail.com>
+Date:   Wed Sep 17 19:29:14 2025 +0200
+
+    Delete caracters/Rain v3.1/Rain v3.1 directory
+
+[33mcommit 8c69a942060e1fd10fd05c0939b3ea5ac2899371[m
+Author: Your Name Raphaël <raphfalai@gmail.com>
+Date:   Wed Sep 17 19:26:13 2025 +0200
+
+    feat : creation of dummy blender file a simple rig
+
+[33mcommit 301bcc310319c9ed949df25726eef598b1bbdb09[m[33m ([m[1;32mmain[m[33m)[m
+Author: Your Name Raphaël <raphfalai@gmail.com>
+Date:   Wed Sep 17 18:45:37 2025 +0200
+
+    BREAKING CHANGE : added all my previous work
+
+[33mcommit 956cd5781fb46c664a4cb9ff587ed5ddab79579f[m
+Author: Heuze Raphael <raphael.heuze@etu.unicaen.fr>
+Date:   Wed Sep 3 13:56:50 2025 +0200
+
+    eyes blender
+
+[33mcommit d26433a5dce165ca75b7a3130023f320404dcc6d[m
+Author: Heuze Raphael <raphael.heuze@etu.unicaen.fr>
+Date:   Wed Sep 3 13:40:58 2025 +0200
+
+    first commit
